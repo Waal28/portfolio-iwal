@@ -13,13 +13,7 @@ function About() {
         </div>
         <div className="about-photo">
           <img
-            src={require("../../../assets/coding1.png")}
-            style={{
-              width: "300px",
-              height: "300px",
-              margin: 30,
-              marginRight: 0,
-            }}
+            src={require("../../../assets/coding2.png")}
             className="picture"
             alt="Iwal"
           />
